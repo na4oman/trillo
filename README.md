@@ -1,8 +1,8 @@
 
-# Trillo: Flexbox Project
+# Trillo: A Flexbox Project
 
 This is the second project in Jonas Schmedtmann Udemy course [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/).  
-The main goal of the project is creating a responsive landing page using **Flexbox CSS layouts**.
+The main goal of the project is creating a responsive landing page using **Flexbox CSS layout methods**.
 
 ## The advanced CSS and SASS course includes:
 1. How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
